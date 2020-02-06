@@ -20,5 +20,3 @@ The QCooperative Team
 
 .. image:: images/qcooperative.png
     :class: centered
-
-----
