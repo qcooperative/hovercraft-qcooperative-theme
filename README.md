@@ -16,4 +16,4 @@ Serving HTTP on 0.0.0.0 port 8000 ...
 
 ````
 
-Online demo is [here](http://rawgit.com/qcooperative/hovercraft-qcooperative-theme/master/build/index.html).
+Online demo is [here](https://raw.githack.com/qcooperative/hovercraft-qcooperative-theme/master/build/index.html).
