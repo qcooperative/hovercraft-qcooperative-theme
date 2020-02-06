@@ -20,3 +20,16 @@ The QCooperative Team
 
 .. image:: images/qcooperative.png
     :class: centered
+
+----
+
+Bullet list
+===========
+
++ Part 1
++ Part 2
++ Part 3
++ Part 4
+    + Part 4.1
+    + Part 4.2
++ Part 5
