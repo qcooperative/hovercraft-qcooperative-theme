@@ -128,7 +128,7 @@ table p {
     padding: 0.5em;
 }
 
-:link, :visited {text-decoration: none;color:green;}
+:link, :visited {text-decoration: none;color:#57cbcc;}
 
 
 table {
@@ -149,7 +149,7 @@ blockquote {
 }
 
 strong {
-    color: green;
+    color: #57cbcc;
 }
 
 p.sidebar {
@@ -287,5 +287,5 @@ ul li {
 }
 
 h2 {
-    color: green;
+    color: #57cbcc;
 }
